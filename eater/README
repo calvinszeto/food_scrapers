@@ -1,0 +1,14 @@
+Mining the restaurants found on www.eater.com lists and relevant data.
+
+Running this scraper requires a Splash server (https://github.com/scrapinghub/splash) running on the default port 8050. AFAIK, Splash is installed using the setup.py (I couldn't find it with pip).
+
+TODO:
+Generalize spider for any given list.
+Mine other lists
+
+Add geolocation data to database
+Add other information to database
+
+Refactoring:
+Convert folders to Python modules and run.sh to a python script.
+How to use XPath to find div's with at least some class?

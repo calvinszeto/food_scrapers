@@ -1,0 +1,43 @@
+A bunch of scrapers for scraping restaurant recommendations from various sources.
+
+Information needed from each:
+An image
+
+Sources to scrape:
+
+Eater:
+    Atlanta
+    Austin
+    Boston
+    Charleston
+    Chicago
+    Dallas
+    Denver
+    Detroit
+    Houston
+    Las Vegas
+    Los Angeles
+    Louisville
+    Maine
+    Miami
+    Minneapolis
+    Montreal
+    Nashville
+    New Orleans
+    New York
+    Philadelphia
+    Portland
+    San Diego
+    San Francisco
+    Seattle
+    Toronto
+    Vancouver
+    Washington DC
+
+Austin Chronicle
+
+The Layover
+Bizarre Foods
+Bizarre Foods America
+
+Food Blogs
