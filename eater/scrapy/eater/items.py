@@ -5,7 +5,21 @@
 
 from scrapy.item import Item, Field
 
-class RestaurantItem(Item):
+class Source(Item):
     name = Field()
-    address = Field()
+    category = Field()
     website = Field()
+    description = Field()
+    recommendation_group = Field()
+
+class RecommendationGroup(Item):
+    name = Field()
+    website = Field()
+    date = Field()
+    description = Field()
+    recommendations = Field()
+
+class Restaurant(Item):
+    name = Field()
+    website = Field()
+    address = Field()

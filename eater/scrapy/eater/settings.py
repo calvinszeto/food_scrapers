@@ -19,5 +19,8 @@ DATABASE = {'drivername': 'postgres',
             'username': 'postgres',
             'password': 'okokok',
             'database': 'eater'}
+
+DOWNLOAD_DELAY = 5
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'eater (+http://www.yourdomain.com)'
